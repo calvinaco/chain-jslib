@@ -33,7 +33,7 @@ node_modules/
 .pnp.*
 
 # library build folder
-lib/dist/
+# lib/dist/
 
 # Protobuf build folder
 proto/
